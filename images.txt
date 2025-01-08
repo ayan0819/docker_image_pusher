@@ -10,3 +10,4 @@ zabbix/zabbix-server-pgsql
 zabbix/zabbix-web-nginx-pgsql
 postgres:16
 zabbix/zabbix-agent
+

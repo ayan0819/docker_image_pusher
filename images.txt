@@ -8,6 +8,6 @@
 #zabbix
 #zabbix/zabbix-server-pgsql:7.0.5
 #zabbix/zabbix-web-nginx-pgsql:7.0.5
-#zabbix/zabbix-agent:7.0.5
+zabbix/zabbix-agent:7.0
 postgres:16
 

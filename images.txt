@@ -6,8 +6,8 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #zabbix
-zabbix/zabbix-server-pgsql
-zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-server-pgsql:7.0
+zabbix/zabbix-web-nginx-pgsql:7.0
 postgres:16
-zabbix/zabbix-agent
+zabbix/zabbix-agent:7.0
 

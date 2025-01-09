@@ -11,3 +11,10 @@ zabbix/zabbix-web-nginx-pgsql:ubuntu-7.0-latest
 zabbix/zabbix-agent:ubuntu-7.0-latest
 postgres:16
 
+
+# caddy
+caddy:2.9-alpine
+
+# mysql
+mysql:8.4
+mysql:5.7

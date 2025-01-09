@@ -18,3 +18,7 @@ caddy:2.9-alpine
 # mysql
 mysql:8.4
 mysql:5.7
+
+# portainer
+portainer/portainer-ce:2.25.1
+

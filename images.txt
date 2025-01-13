@@ -22,3 +22,5 @@ mysql:5.7
 # portainer
 portainer/portainer-ce:2.25.1
 
+# node
+node:22-alpine
